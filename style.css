@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: red;
+    font-size: 200em;
+}
+h2{
+    background-color: tomato;
+    border: 3px solid lime;
+    outline: 2px solid white;
+}
